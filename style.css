@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin : 0;
+    position: relative;
+}
+.parent-page{
+    display: flex;
+    justify-content:center;
+   
+}
+.mainclass{
+    position: fixed;
+    bottom:100px;
+    background-color: rgb(21, 0, 214)0, 47, 255;
+    border-radius: 50px;
+    border: 2px saddlebrown
+
+}
+
